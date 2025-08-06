@@ -1,33 +1,5 @@
 {
   "ALL": {
-    "Baby & Mom's Care": {
-      "1": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Firstcry.png?alt=media&token=fbf0158e-490f-40f1-899a-62e4a1ec4db5",
-        "Name": "Firstcry",
-        "Web": "https://extp.in/qxbb0r"
-      },
-      "2": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Mother%20Sharsh.png?alt=media&token=b69dab7f-6435-43a6-8098-7d3f1645763e",
-        "Name": "Mother Sparsh",
-        "Web": "https://mothersparsh.com/?utm_source=optimise&utm_medium=affiliate&utm_campaign=cps_355300_sus613636239_6312b9ac116ce2998_2458"
-      },
-      "3": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Hamleys.png?alt=media&token=dba16608-7812-4312-8bcf-93075de34e28",
-        "Name": "Hamleys",
-        "Web": "https://inr.deals/okfyVS"
-      },
-      "5": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Sebamed.png?alt=media&token=a5fe7c4e-941f-4b91-8fbe-cec5a46c8b8f",
-        "Name": "Sebamed",
-        "Web": "https://inr.deals/arGURm"
-      },
-      "6": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Amazon%20New%20Logo.png?alt=media&token=9c6b674c-d20f-4411-b123-c3db4bf138bd",
-        "Name": "Amazon",
-        "Web": "https://ekaro.in/enkr20221116s17714144"
-      },
-      "pos": 8
-    },
     "Domestic & International Flight": {
       "1": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Goibibo.png?alt=media&token=3cf7623e-9a7e-4058-8289-acdf55b1a6a7",
@@ -64,7 +36,7 @@
         "Name": "Etihad Airways",
         "Web": "https://www.etihad.com/en-ae/?CID=affgeneric&utm_campaign=genericen&utm_medium=affiliates&utm_source=genericen&adref=53946_vCommission&pzevent=1100lw8RNiNJ&dclid=CKXq26il9fkCFVtjKwod3XAJcQ"
       },
-      "pos": 12
+      "pos": 11
     },
     "Flowers & Gifts": {
       "1": {
@@ -102,7 +74,7 @@
         "Name": "Indian_Gifts_Portal",
         "Web": "https://ekaro.in/enkr20221015s16773074"
       },
-      "pos": 10
+      "pos": 12
     },
     "Health & Beauty": {
       "1": {
@@ -172,49 +144,49 @@
       },
       "pos": 7
     },
-    "Mobile,Laptop & Electronics": [
-      null,
-      {
+    "Mobile,Laptop & Electronics": {
+      "1": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/OnePlus.png?alt=media&token=07f29c26-c0d6-435e-8cfb-91bb21339892",
         "Name": "OnePlus",
         "Web": "https://www.oneplus.in/?irclickid=SC11gR2J8xyNRNtT6ryOjXyTUkDWF9xHF2rHx00&irgwc=1&utm_source=impact&utm_medium=affiliate&utm_content=INRDeals%20Pvt%20Ltd&utm_term=&utm_campaign=13135"
       },
-      {
+      "2": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Oppo.png?alt=media&token=f18349f5-fd58-4555-9aa3-b747af84f3f6",
         "Name": "Oppo",
         "Web": "https://extp.in/FdNSjQ"
       },
-      {
+      "3": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Samsung.png?alt=media&token=f05ff1b1-91c2-4ee5-8588-27b5c40dd074",
         "Name": "Samsung",
         "Web": "https://www.samsung.com/in/offer/online/samsung-fest/?cid=in_pd_affiliate_other_all_none_samsungeshopfest2022_notification_20220701_none-1ur-501409l-2022"
       },
-      {
+      "4": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Boat.png?alt=media&token=d4ce499d-b6da-41f8-9e4d-31604c3e3709",
         "Name": "Boat",
         "Web": "https://www.boat-lifestyle.com/"
       },
-      {
+      "5": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/LG.png?alt=media&token=10d65d63-67f4-4890-8eea-92f4e5b92242",
         "Name": "LG",
         "Web": "https://inr.deals/EWG09A"
       },
-      {
+      "6": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Lenovo.png?alt=media&token=2a5d33dd-a1b6-4fe8-a124-733587ff2499",
         "Name": "Lenovo",
         "Web": "https://inr.deals/daK1Rz"
       },
-      {
+      "7": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Acer.png?alt=media&token=5704532d-878c-4cc4-a293-cfb32988f60e",
         "Name": "Acer",
         "Web": "https://inr.deals/IzN6rj"
       },
-      {
+      "8": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Croma.png?alt=media&token=426d5380-6a75-4cc6-90dc-6d50b201a058",
         "Name": "Croma",
         "Web": "https://www.croma.com/?utm_source=omg&utm_medium=affiliates&utm_campaign=355300_sus613636239_632170ff982bd3359_316&sskey=c880ff5b7c8b425fa3e429aa1fbc8564"
-      }
-    ],
+      },
+      "pos": 8
+    },
     "Online Food Delivery": {
       "1": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Swiggy.png?alt=media&token=712bc70d-a4d4-4d1d-83b7-6cad6cc5d3db",
@@ -419,29 +391,29 @@
       },
       "pos": 5
     },
-    "Social": [
-      null,
-      {
+    "Social": {
+      "1": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Facebook.png?alt=media&token=d1ae51af-0910-4a95-afde-a9cd642590f5",
         "Name": "Facebook",
         "Web": "https://www.facebook.com/"
       },
-      {
+      "2": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Instagram.png?alt=media&token=ee34a9ad-1b0e-4966-ad7f-988373dd619a",
         "Name": "Instagram",
         "Web": "https://www.instagram.com/"
       },
-      {
+      "3": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Twitter.png?alt=media&token=7cf67c47-d20e-4c2e-862c-4583bfb32be9",
         "Name": "Twitter",
         "Web": "https://twitter.com/"
       },
-      {
+      "4": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Linkedin.png?alt=media&token=0a48b746-266a-4775-8aee-80494204c767",
         "Name": "Linkedin",
         "Web": "https://www.linkedin.com/"
-      }
-    ],
+      },
+      "pos": 13
+    },
     "Top App Bar": {
       "1": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Smart%20Icon%2FShopping.png?alt=media&token=43be87b8-7fc9-4aca-9140-0c58ec6b2fdf",
@@ -668,11 +640,10 @@
         "Name": "EaseMyTrip",
         "Web": "https://inr.deals/JkP0Nm"
       },
-      "pos": 11
+      "pos": 10
     }
   },
   "ALLTabRelation": {
-    "Baby": "Baby & Mom's Care",
     "Beauty": "Health & Beauty",
     "Cabs": "Online Cabs",
     "Education": "Education",
@@ -965,34 +936,6 @@
         "Web": "https://bitli.in/pMHHR7s"
       }
     ],
-    "Baby & Mom's Care": [
-      null,
-      null,
-      {
-        "Icon": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Firstcry.png?alt=media&token=fbf0158e-490f-40f1-899a-62e4a1ec4db5",
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Title%20Display%2FBaby%20%26%20Mom's%20Care%2FFirstCry%20New%20Image%201.png?alt=media&token=cb789343-6870-4723-aef0-eea88aaf4d36",
-        "Name": "Super Store",
-        "Web": "https://extp.in/SCeCJh"
-      },
-      {
-        "Icon": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Firstcry.png?alt=media&token=fbf0158e-490f-40f1-899a-62e4a1ec4db5",
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Title%20Display%2FBaby%20%26%20Mom's%20Care%2FFirstCry%20New%20Image%202.png?alt=media&token=af887c16-1cd7-4a17-bc47-a2f54be60458",
-        "Name": "Flat 35% Off",
-        "Web": "https://extp.in/3iTo8C"
-      },
-      {
-        "Icon": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Mother%20Sharsh.png?alt=media&token=b69dab7f-6435-43a6-8098-7d3f1645763e",
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Title%20Display%2FBaby%20%26%20Mom's%20Care%2FBaby%20Hygine.png?alt=media&token=f8a54b3c-c3c8-438e-b8df-4cdca2fa9bab",
-        "Name": "Baby_Wipes",
-        "Web": "https://inr.deals/HEm2Ua"
-      },
-      {
-        "Icon": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Flipkart.png?alt=media&token=a4517eae-1173-46ce-9f67-e6610bfcefb2",
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Title%20Display%2FBaby%20%26%20Mom's%20Care%2FBaby%20Bath.png?alt=media&token=5952c175-97bf-41e2-8213-c9ccc2a38a69",
-        "Name": "Under ₹599",
-        "Web": "https://ekaro.in/enkr20230206s20649383"
-      }
-    ],
     "Health & Beauty": [
       null,
       {
@@ -1041,24 +984,14 @@
         "Name": "Under ₹20k",
         "Web": "https://ekaro.in/enkr20230208s20766440"
       },
-      {
-        "Icon": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/OnePlus.png?alt=media&token=07f29c26-c0d6-435e-8cfb-91bb21339892",
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Title%20Display%2FMobile%20%26%20Laptops%2FOne%20Plus%20Mobile.png?alt=media&token=0f70a42d-2907-4a27-81c0-2e9db937b96e",
-        "Name": "Nord CE 2 Lite 5G",
-        "Web": "https://ekaro.in/enkr20230208s20767776"
-      },
+      null,
       {
         "Icon": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Samsung.png?alt=media&token=f05ff1b1-91c2-4ee5-8588-27b5c40dd074",
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Title%20Display%2FMobile%20%26%20Laptops%2FSumsang%20Mobile.png?alt=media&token=694852c0-3033-43e0-afd6-91f834024f6e",
         "Name": "Galaxy F23 5G",
         "Web": "https://ekaro.in/enkr20230208s20768072"
       },
-      {
-        "Icon": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Oppo.png?alt=media&token=f18349f5-fd58-4555-9aa3-b747af84f3f6",
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Title%20Display%2FMobile%20%26%20Laptops%2FOppo%20Mobile.png?alt=media&token=a33bf47a-cadd-4074-bf5b-c3c15fd99457",
-        "Name": "Reno 8T 5G",
-        "Web": "https://ekaro.in/enkr20230208s20768904"
-      },
+      null,
       {
         "Icon": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Boat.png?alt=media&token=d4ce499d-b6da-41f8-9e4d-31604c3e3709",
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Title%20Display%2FMobile%20%26%20Laptops%2FBoat%20Headphone.png?alt=media&token=cb0fc32b-bb1d-4f2e-a2ee-1dba72d0aedf",
