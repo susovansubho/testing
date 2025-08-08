@@ -216,13 +216,8 @@
       "pos": 9
     },
     "Online Grocery": {
-      "1": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/BigBasket.png?alt=media&token=b63cd090-c29f-43d1-bcd3-e64990c31fab",
-        "Name": "BigBasket",
-        "Web": "https://www.bigbasket.com/?utm_source=inrdeals&utm_medium=referral&utm_campaign=offer-remarketing&utm_term=remarketing"
-      },
       "2": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Flipkart%20Logo.png?alt=media&token=84a2980b-cba9-4577-bb62-a773e82873d1",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Flipkart%20Grocery.png?alt=media&token=1c7bb172-9db1-477d-9060-e4709aa319ca",
         "Name": "FlipKart_Grocery",
         "Web": "https://fktr.in/X44t0s9"
       },
@@ -327,7 +322,7 @@
       "6": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Nykaa.png?alt=media&token=ffff08af-88cb-46ba-ae76-fd29ea2e6915",
         "Name": "Nykaa",
-        "Web": "https://inr.deals/p4IM91"
+        "Web": "https://bitli.in/nVcaDyf"
       },
       "7": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Nykaa%20Fashion.png?alt=media&token=8876d363-19cd-454e-b15e-63c924e7f804",
@@ -509,7 +504,7 @@
       "8": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FAppliance-1.png?alt=media&token=73419126-ba7f-4104-93f2-ed35c02d1277",
         "Name": "Appliances",
-        "Web": "https://fktr.in/q7kq3EC"
+        "Web": "https://fktr.in/UXaB1gR"
       },
       "10": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FAuto%20Acc-1.png?alt=media&token=dc9a94a2-5095-48e6-a602-165b4dfd700b",
@@ -603,27 +598,22 @@
       "1": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Cleartrip.png?alt=media&token=9d12f491-4698-4ad4-b568-0f8527abd473",
         "Name": "Cleartrip",
-        "Web": "https://www.cleartrip.com/flights?utm_source=clickonik&utm_medium=cpa&utm_campaign=dom_air&utm_term=32"
+        "Web": "https://bitli.in/kEV7AAx"
       },
       "2": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Agoda.png?alt=media&token=f5d6e16f-ae42-4d59-ad2f-f2f3eea83aab",
         "Name": "Agoda",
-        "Web": "https://inr.deals/1rjZyI"
+        "Web": "https://extp.in/XKxluz"
       },
       "3": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Make%20My%20Trip.png?alt=media&token=ab57895d-db97-4461-878c-046a7ce3c894",
         "Name": "Make my Trip Hotel",
-        "Web": "https://bitli.in/stDj5fa"
-      },
-      "4": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Wego.png?alt=media&token=fcfc7f4b-e575-47cf-836f-a958a3a4d9cf",
-        "Name": "Wego",
-        "Web": "https://extp.in/ehbcbn"
+        "Web": "https://bitli.in/S3lb6oe"
       },
       "5": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Goibibo.png?alt=media&token=3cf7623e-9a7e-4058-8289-acdf55b1a6a7",
         "Name": "Goibibo Hotel",
-        "Web": "https://www.goibibo.com/hotels/?utm_source=Vcommission&utm_medium=DisplayAffiliate&utm_campaign=hotels_102027d73f6b656e34b4d05297833d_53946"
+        "Web": "https://bitli.in/c4XX1g8"
       },
       "6": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Booking%20com.png?alt=media&token=cde1e901-1b40-44ad-8597-c6456bb5a308",
