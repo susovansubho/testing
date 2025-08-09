@@ -110,7 +110,7 @@
       "7": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Clovia.png?alt=media&token=ba9157a8-a28e-4323-9736-6ad40648f61d",
         "Name": "Clovia",
-        "Web": "https://bitli.in/ypjWwie"
+        "Web": "https://www.clovia.com/"
       },
       "8": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Plum.jpg?alt=media&token=7ffa5e91-d413-41c3-bfb6-9d28c94a2d15",
@@ -357,7 +357,7 @@
       "14": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Clovia.png?alt=media&token=ba9157a8-a28e-4323-9736-6ad40648f61d",
         "Name": "Clovia",
-        "Web": "https://bitli.in/AYOtiRB"
+        "Web": "https://www.clovia.com/"
       },
       "15": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/MamaEarth.png?alt=media&token=c854ffac-1807-4de0-b744-b1ab5fdb687a",
@@ -415,11 +415,6 @@
         "Link": "Shopping",
         "Name": "Shopping",
         "Web": "link"
-      },
-      "2": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FRakhi%20spatial-1.png?alt=media&token=4b4bd816-addf-4de9-9dfc-2fab190830a7",
-        "Name": "Rakhi",
-        "Web": "https://bitli.in/aD7oJCo"
       },
       "4": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FFashion-1.png?alt=media&token=cbb99ea1-e5e5-497f-b7b0-571732dd5838",
@@ -505,6 +500,11 @@
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FAppliance-1.png?alt=media&token=73419126-ba7f-4104-93f2-ed35c02d1277",
         "Name": "Appliances",
         "Web": "https://fktr.in/UXaB1gR"
+      },
+      "9": {
+        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FMobile-1.png?alt=media&token=b7b8b6e7-5190-48f0-96f5-b409d398f44c",
+        "Name": "Mobile",
+        "Web": "https://fktr.in/k8QRHL5"
       },
       "10": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FAuto%20Acc-1.png?alt=media&token=dc9a94a2-5095-48e6-a602-165b4dfd700b",
@@ -655,11 +655,11 @@
       "Link": "https://ajiio.in/lvSeyjw"
     },
     "Amazon": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAmazon%20Freedom%20sale25.png?alt=media&token=19a4cf7e-0818-4eeb-bf30-bbb6cdbd8512",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAmazon%20New%20Aug25.png?alt=media&token=2e7bee5a-d5c0-423e-9d3f-ef49f816eec5",
       "Link": "https://bitli.in/oN81OEw"
     },
     "Flipkart": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FFlipkart%20Freedom%20sale25.png?alt=media&token=31be58cc-d1a9-42b6-a20d-9f735f913cdd",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FFlipkart%20New%20Aug25.png?alt=media&token=2c8131c9-5204-4287-808c-5e015fe13648",
       "Link": "https://fktr.in/ihy3F5F"
     },
     "Myntra": {
@@ -783,7 +783,7 @@
         "Icon": "no",
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Shop%20Lite%20Suggest%20You%2FInner%20wear.png?alt=media&token=ff3aacef-64f6-4d20-aadf-d6a7138ff507",
         "Name": "Lingerie",
-        "Web": "https://bitli.in/pr6w3mW"
+        "Web": "https://bitli.in/phtETgJ"
       },
       {
         "Icon": "no",
