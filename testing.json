@@ -327,7 +327,7 @@
       "7": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Nykaa%20Fashion.png?alt=media&token=8876d363-19cd-454e-b15e-63c924e7f804",
         "Name": "Nykaa_Fashion",
-        "Web": "https://inr.deals/emxcQD"
+        "Web": "https://bitli.in/0ce4oyL"
       },
       "8": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Meesho%20New%20Logo.png?alt=media&token=c8080ff0-1bde-451d-9629-99b05a8cdfff",
@@ -610,6 +610,11 @@
         "Name": "Make my Trip Hotel",
         "Web": "https://bitli.in/S3lb6oe"
       },
+      "4": {
+        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Indigo%20Hotel.png?alt=media&token=e7f2088a-7ed8-41f7-a043-8665cf332060",
+        "Name": "Indigo_Hotel",
+        "Web": "https://www.goindigo.in/hotels/?utm_source=EKL_ads&utm_medium=EKL_conversion_ads&utm_campaign=EKL_Hotel_conversion_12Feb2025&cid=Publisher|P|6EHotels|EKL_Ads|12Feb2025|LA60|TQ_590_264_689a0883493b5303518bee1f_ENKR20250811A1560368085"
+      },
       "5": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Goibibo.png?alt=media&token=3cf7623e-9a7e-4058-8289-acdf55b1a6a7",
         "Name": "Goibibo Hotel",
@@ -651,7 +656,7 @@
   },
   "ImageSlider": {
     "Ajio": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAjio%20Freedom%20sale25.png?alt=media&token=38e4bfe0-fc8d-4937-960b-622f1e479e32",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAjo%20New%20freedom%20sale.png?alt=media&token=8b06f78f-82a6-4373-834e-ea5d40047661",
       "Link": "https://ajiio.in/lvSeyjw"
     },
     "Amazon": {
@@ -659,12 +664,20 @@
       "Link": "https://bitli.in/oN81OEw"
     },
     "Flipkart": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FFlipkart%20New%20Aug25.png?alt=media&token=2c8131c9-5204-4287-808c-5e015fe13648",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FFlipkart%20Freedom%20Sale%20back%20Aug25.png?alt=media&token=087ad70c-3796-4b56-a3f1-a633560e2419",
       "Link": "https://fktr.in/ihy3F5F"
     },
+    "Mamaearth": {
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FMamaearth-New%20Sale.png?alt=media&token=101cc47a-f340-4efd-ac92-6720e3baba1d",
+      "Link": "https://bitli.in/kD4H0Gt"
+    },
     "Myntra": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FMyntra%20Freedom%20sale25.png?alt=media&token=f9f78dbf-cfb2-4c0a-a47b-5a5c277125e4",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FMyntra%20Freedom%20New%20Sale.png?alt=media&token=aa53a342-c684-406f-a866-cf5cc8a2e120",
       "Link": "https://myntr.it/oqp0gQ3"
+    },
+    "Nykaa": {
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FNykaa-%20New%20freedom%20sale.png?alt=media&token=c18e104c-5082-443b-b6c6-6f5d54634ea1",
+      "Link": "https://bitli.in/JCa9Aew"
     },
     "Shopsy": {
       "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FShopsy%20Sale%20July25.png?alt=media&token=5165ed66-3dbc-4b68-b871-0c096327af31",
