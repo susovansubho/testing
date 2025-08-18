@@ -297,12 +297,12 @@
       "1": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Amazon%20New%20Logo.png?alt=media&token=9c6b674c-d20f-4411-b123-c3db4bf138bd",
         "Name": "Amazon",
-        "Web": "https://bitli.in/oN81OEw"
+        "Web": "https://bitli.in/Lg1wSc8"
       },
       "2": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Flipkart%20Logo.png?alt=media&token=84a2980b-cba9-4577-bb62-a773e82873d1",
         "Name": "Flipkart",
-        "Web": "https://fktr.in/ihy3F5F"
+        "Web": "https://fktr.in/YUytZya"
       },
       "3": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Shopsy.png?alt=media&token=0189ae01-e9ea-4a82-80bf-a030b5c89682",
@@ -656,28 +656,20 @@
   },
   "ImageSlider": {
     "Ajio": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAjo%20New%20freedom%20sale.png?alt=media&token=8b06f78f-82a6-4373-834e-ea5d40047661",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAjio%20New%20Aug25.png?alt=media&token=aaad9a0a-3aea-46cb-bc6c-22aec685b61d",
       "Link": "https://ajiio.in/lvSeyjw"
     },
     "Amazon": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAmazon%20New%20Aug25.png?alt=media&token=2e7bee5a-d5c0-423e-9d3f-ef49f816eec5",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAmazon%20New%20Aug25.png?alt=media&token=f5eb2a9b-f595-4c14-9b08-ecc5fe45c9ce",
       "Link": "https://bitli.in/oN81OEw"
     },
     "Flipkart": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FFlipkart%20Freedom%20Sale%20back%20Aug25.png?alt=media&token=087ad70c-3796-4b56-a3f1-a633560e2419",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FFlipkart%20New%20Aug25.png?alt=media&token=2c8131c9-5204-4287-808c-5e015fe13648",
       "Link": "https://fktr.in/ihy3F5F"
     },
     "Mamaearth": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FMamaearth-New%20Sale.png?alt=media&token=101cc47a-f340-4efd-ac92-6720e3baba1d",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FMamaEarth%20New%20Aug25.png?alt=media&token=5c15307f-3340-4a9e-bdbd-b19167262e77",
       "Link": "https://bitli.in/kD4H0Gt"
-    },
-    "Myntra": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FMyntra%20Freedom%20New%20Sale.png?alt=media&token=aa53a342-c684-406f-a866-cf5cc8a2e120",
-      "Link": "https://myntr.it/oqp0gQ3"
-    },
-    "Nykaa": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FNykaa-%20New%20freedom%20sale.png?alt=media&token=c18e104c-5082-443b-b6c6-6f5d54634ea1",
-      "Link": "https://bitli.in/JCa9Aew"
     },
     "Shopsy": {
       "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FShopsy%20Sale%20July25.png?alt=media&token=5165ed66-3dbc-4b68-b871-0c096327af31",
