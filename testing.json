@@ -307,7 +307,7 @@
       "3": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Shopsy.png?alt=media&token=0189ae01-e9ea-4a82-80bf-a030b5c89682",
         "Name": "Shopsy",
-        "Web": "https://bitli.in/pERs0et"
+        "Web": "https://inr.deals/wgEOBb"
       },
       "4": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Myntra.png?alt=media&token=7299653e-17bc-4dc6-a665-75efa0fc31da",
@@ -327,7 +327,7 @@
       "7": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Nykaa%20Fashion.png?alt=media&token=8876d363-19cd-454e-b15e-63c924e7f804",
         "Name": "Nykaa_Fashion",
-        "Web": "https://bitli.in/0ce4oyL"
+        "Web": "https://extp.in/ozNEFV"
       },
       "8": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Meesho%20New%20Logo.png?alt=media&token=c8080ff0-1bde-451d-9629-99b05a8cdfff",
@@ -340,9 +340,9 @@
         "Web": "https://bitli.in/Eci4Iei"
       },
       "10": {
-        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Moglix.png?alt=media&token=2e4c48f9-bb00-4be3-8559-46e2ea45ca73",
-        "Name": "Moglix",
-        "Web": "https://inr.deals/i2O0Lp"
+        "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Dot%20%26%20Key%20Logo.png?alt=media&token=e092599c-7c70-436f-9dbd-f60eb19c27e1",
+        "Name": "Dot & Key",
+        "Web": "https://bitli.in/Wq3uANz"
       },
       "11": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/Firstcry.png?alt=media&token=fbf0158e-490f-40f1-899a-62e4a1ec4db5",
@@ -434,7 +434,7 @@
       "7": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FKids%20Fashion-1.png?alt=media&token=68130afc-dd72-4e79-b384-be7cb29a5915",
         "Name": "Kids",
-        "Web": "https://bitli.in/p1sbGsI"
+        "Web": "https://fktr.in/x6EJKPy"
       },
       "8": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FToy%20%26%20Baby%20Products-1.png?alt=media&token=03048319-dc92-45b3-b93c-d2d815e890f2",
@@ -454,7 +454,7 @@
       "12": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FLatest%20Trends-1.png?alt=media&token=72ae3f3f-b84f-4834-8ecb-28ceedcd3597",
         "Name": "Latest Trends",
-        "Web": "https://bitli.in/AEpvQmB"
+        "Web": "https://bitli.in/rs31LdO"
       },
       "14": {
         "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Top%20Menus%20Under%20Image%20Slider%2FEthnic%20store-1.png?alt=media&token=c077104c-0bb3-4bb3-9419-4103f9dcf996",
@@ -656,20 +656,24 @@
   },
   "ImageSlider": {
     "Ajio": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAjio%20New%20Aug25.png?alt=media&token=aaad9a0a-3aea-46cb-bc6c-22aec685b61d",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAjio%20Sale%20Sep25.png?alt=media&token=db077f92-46a7-4f4d-90ca-03b1178cf658",
       "Link": "https://ajiio.in/lvSeyjw"
     },
     "Amazon": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAmazon%20New%20Aug25.png?alt=media&token=f5eb2a9b-f595-4c14-9b08-ecc5fe45c9ce",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FAmazon%20Grd%20Ind%20Sale%20Sep25.png?alt=media&token=e78779e7-334f-4b00-a732-b51d172dd607",
       "Link": "https://bitli.in/oN81OEw"
     },
     "Flipkart": {
-      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FFlipkart%20Grosary%20Sales.jpg?alt=media&token=535444a5-b8a6-4e3a-84dc-0022b76f0dff",
-      "Link": "https://fktr.in/X44t0s9"
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FFlipkart%20BB%20Sales%20Sep25.png?alt=media&token=2fbd34cc-ed7f-47ef-a66d-aa94249cb9e7",
+      "Link": "https://fktr.in/eQVcEP1"
     },
     "Mamaearth": {
       "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FMamaEarth%20New%20Aug25.png?alt=media&token=5c15307f-3340-4a9e-bdbd-b19167262e77",
       "Link": "https://bitli.in/kD4H0Gt"
+    },
+    "Myntra": {
+      "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FMyntra%20Sep25.png?alt=media&token=1072c55a-6cd9-4930-9d69-c621bf285925",
+      "Link": "https://myntr.it/7Mwmxy7"
     },
     "Shopsy": {
       "Image": "https://firebasestorage.googleapis.com/v0/b/allbrowzerapp.appspot.com/o/All%20Offer%20Png%2FShopsy%20Sale%20July25.png?alt=media&token=5165ed66-3dbc-4b68-b871-0c096327af31",
